@@ -15,5 +15,7 @@ python train.py
 
 
 Test result
-![image](https://user-images.githubusercontent.com/87609200/220369306-4b26899e-15f1-4474-b2d1-6976e5b702d8.png)
+
+![image](https://user-images.githubusercontent.com/87609200/220369538-a835ad5a-bc99-45f8-830b-52049c5ea766.png)
+
 
