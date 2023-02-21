@@ -9,3 +9,4 @@ ___
 ```
 # for train
 python train.py
+   -> input sid
