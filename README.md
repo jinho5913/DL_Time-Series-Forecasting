@@ -5,7 +5,7 @@
 2. LSTM(1 layer)를 사용
   * 데이터가 부족했기 때문에 Model Capacity 고려
 
-train : val : test = 300 : 100 : 100
+train : val : test = 400 : 100 : 100
 ___
 ```
 # for train
