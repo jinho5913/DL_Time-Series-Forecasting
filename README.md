@@ -1,4 +1,7 @@
-# LSTM을 사용한 시계열 예측
+# 샐러드 수요량 예측 모델 개발
+
+[ 결과보고서 ]
+https://spotted-fridge-c67.notion.site/92d8463500d44870a4c557ae66e4b0fc
 
 1. 시계열 데이터 생성
   * Sliding Window 사용
